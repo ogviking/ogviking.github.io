@@ -4,6 +4,7 @@ email: mike@goldenviking.org
 description: "Golden Viking LLC is an experimental mobile software development operation.  We let our wild ideas go outside and play."
 baseurl: ""
 url: "http://ogviking.github.io"
+username: crftr
 
 # Build settings
 markdown: kramdown
